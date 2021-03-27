@@ -1,8 +1,6 @@
 <h1>Zachary scott</h1>
 <p>Student #: s3910896</p>
 <p>Email: <a href="mailto:s3910896@student.rmit.edu.au">s3910896@student.rmit.edu.au</a></p>
-<p>GitHub Repository:</p>
-<p>GitHub Pages URL:</p>
 <h1>Personal Information</h1>
 <p>My name is Zachary (Zac) Scott; I am 21 years old. My birthday is in June; I live in Brisbane and work as a Hire Controller. Some of my interests are app design, computer gaming, fishing, Cooking and Sports, to name a few. I am part Greek, so I love to cook and eat lots of food with my family.</p>
 <h1>Interest in IT</h1>
