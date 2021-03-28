@@ -77,12 +77,15 @@
 </tr>
 <tr>
 <td width="266">
+<img src="Picture1.png" alt="Test1" width="250" height="375">
 <p>(Workplace Habits | Adventurer (ISFP) Personality | 16Personalities, 2021)</p>
 </td>
 <td width="189">
+<img src="Picture2.png" alt="Test2" width="135" height="135">
 <p>(What's Your Learning Style? 20 Questions, 2021)</p>
 </td>
 <td width="344">
+<img src="Picture3.png" alt="Test3" width="350" height="375">
 <p>(Dr. Phil&rsquo;s Personality Test, 2021)</p>
 </td>
 </tr>
@@ -177,5 +180,8 @@
 <p>Educationplanner.org. 2021.&nbsp;What's Your Learning Style? 20 Questions. [online] Available at: &lt;<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=2&amp;V=7&amp;T=11">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=2&amp;V=7&amp;T=11</a>&gt; [Accessed 27 March 2021].</p>
 <p>Psych Central. 2021.&nbsp;Dr Phil's Personality Test. [online] Available at: &lt;<a href="https://psychcentral.com/quizzes/personality-quiz%235">https://psychcentral.com/quizzes/personality-quiz#5</a>&gt; [Accessed 27 March 2021].</p>
 <p>Christmas is around the corner and the best gift for any occasion is a Rubik's Cube which can be easily solved with <a href="https://www.youtube.com/watch?v=VeeFwwAz7nohow-to-solve-a-rubiks-cube/" rel="nofollow noopener">this easy tutorial</a>.</p>
+</body>
+</html>
+
 </body>
 </html>
