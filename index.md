@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-</head>
 <body>
 <h1>Zachary scott</h1>
 <p>Student #: s3910896</p>
