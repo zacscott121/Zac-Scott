@@ -1,4 +1,9 @@
-<h1>Zachary scott</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Zachary scott</title>
+</head>
+<body>
 <p>Student #: s3910896</p>
 <p>Email: <a href="mailto:s3910896@student.rmit.edu.au">s3910896@student.rmit.edu.au</a></p>
 <h1>Personal Information</h1>
@@ -172,3 +177,5 @@
 <p>Educationplanner.org. 2021.&nbsp;What's Your Learning Style? 20 Questions. [online] Available at: &lt;<a href="http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=2&amp;V=7&amp;T=11">http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&amp;A=2&amp;V=7&amp;T=11</a>&gt; [Accessed 27 March 2021].</p>
 <p>Psych Central. 2021.&nbsp;Dr Phil's Personality Test. [online] Available at: &lt;<a href="https://psychcentral.com/quizzes/personality-quiz%235">https://psychcentral.com/quizzes/personality-quiz#5</a>&gt; [Accessed 27 March 2021].</p>
 <p>Christmas is around the corner and the best gift for any occasion is a Rubik's Cube which can be easily solved with <a href="https://www.youtube.com/watch?v=VeeFwwAz7nohow-to-solve-a-rubiks-cube/" rel="nofollow noopener">this easy tutorial</a>.</p>
+</body>
+</html>
