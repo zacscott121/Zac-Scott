@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Zachary scott</title>
 </head>
 <body>
+<h1>Zachary scott</h1>
 <p>Student #: s3910896</p>
 <p>Email: <a href="mailto:s3910896@student.rmit.edu.au">s3910896@student.rmit.edu.au</a></p>
 <h1>Personal Information</h1>
